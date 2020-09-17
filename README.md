@@ -4,3 +4,5 @@ DSC 540 Topic 2 Assignment Part1 - This file contains the response for part1 the
 
 
 Topic2 Technical report - This file has technical writing of my program.
+
+Rajkumar_Topic2_KNN_python_coding - This is jupyter notebook file 
